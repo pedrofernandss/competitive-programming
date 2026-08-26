@@ -1,4 +1,4 @@
-# Competitive Programming
+# Coding Interview & Competitive Programming
 
 This repository stores the code I’ve written throughout my journey in **Competitive Programming** and **Coding Interview** preparation.
 
