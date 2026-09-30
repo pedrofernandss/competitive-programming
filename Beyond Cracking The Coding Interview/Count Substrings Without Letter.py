@@ -7,7 +7,6 @@ def countSubstrings(string):
 
     for idx in range(len(string)):
         if string[idx] == 'a':
-            #totalSubstrings += currentSubstringsInWindonw
             currentSubstringsInWindonw = 0
         else:
             currentSubstringsInWindonw += 1
